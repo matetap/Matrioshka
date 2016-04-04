@@ -23,5 +23,27 @@
         android:layout_centerHorizontal="true"
         android:textColor="#FFFFFFFF"
         android:textSize="100px" />
+        
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ADMINISTRATEUR"
+        android:id="@+id/button"
+        android:layout_below="@+id/textView6"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:width="500px"
+        android:height="250px" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UTILISATEUR"
+        android:id="@+id/button2"
+        android:layout_below="@+id/button"
+        android:layout_centerHorizontal="true"
+        android:width="500px"
+        android:height="250px" />
+        
 </RelativeLayout>
 
