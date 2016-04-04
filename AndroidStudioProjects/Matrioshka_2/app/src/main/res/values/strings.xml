@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Matrioshka_2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_admin">Admin</string>
+    <string name="title_activity_parc">Parc</string>
+</resources>
